@@ -54,7 +54,7 @@ I am a QA engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
     
 
-//- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on API and back end testing 
 - 🌱 I’m currently learning Selenium Webdriver
 - 💬 My moto: Never stop learning.
 
