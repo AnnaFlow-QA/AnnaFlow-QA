@@ -26,7 +26,7 @@ I am a QA engineer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/g
 
 - :seedling: Exploring Automation Testing with Selenium Webdriver.
 
-- :zap: In my free time I enjoy reading books on Personal Development and new Tech Tools.
+- :zap: In my free time I enjoy reading books on Personal Development, meditate with Maloka, and discover new Tech Tools.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annaflow/)
 
